@@ -1,0 +1,11 @@
+[workspace]
+resolver = "2"
+members = ["datastructures/arenas"]
+
+[workspace.package]
+license = "MIT OR Apache-2.0"
+authors = ["Ryan Butler <thebutlah@gmail.com>"]
+repository = "https://github.com/SlimeVR/SlimeVR-Rust"
+
+rust-version = "1.58.1" # Leetcode rust version
+edition = "2021"
